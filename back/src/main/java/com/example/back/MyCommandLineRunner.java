@@ -26,4 +26,5 @@ public class MyCommandLineRunner implements CommandLineRunner {
         product2.setQuantity(55);
         productService.save(product2);
     }
+
 }
